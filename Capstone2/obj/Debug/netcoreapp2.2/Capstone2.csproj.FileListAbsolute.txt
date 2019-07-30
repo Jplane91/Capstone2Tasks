@@ -1,0 +1,11 @@
+/Users/mac/Projects/Capstone2/Capstone2/bin/Debug/netcoreapp2.2/Capstone2.deps.json
+/Users/mac/Projects/Capstone2/Capstone2/bin/Debug/netcoreapp2.2/Capstone2.runtimeconfig.json
+/Users/mac/Projects/Capstone2/Capstone2/bin/Debug/netcoreapp2.2/Capstone2.runtimeconfig.dev.json
+/Users/mac/Projects/Capstone2/Capstone2/bin/Debug/netcoreapp2.2/Capstone2.dll
+/Users/mac/Projects/Capstone2/Capstone2/bin/Debug/netcoreapp2.2/Capstone2.pdb
+/Users/mac/Projects/Capstone2/Capstone2/obj/Debug/netcoreapp2.2/Capstone2.csprojAssemblyReference.cache
+/Users/mac/Projects/Capstone2/Capstone2/obj/Debug/netcoreapp2.2/Capstone2.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Capstone2/Capstone2/obj/Debug/netcoreapp2.2/Capstone2.AssemblyInfoInputs.cache
+/Users/mac/Projects/Capstone2/Capstone2/obj/Debug/netcoreapp2.2/Capstone2.AssemblyInfo.cs
+/Users/mac/Projects/Capstone2/Capstone2/obj/Debug/netcoreapp2.2/Capstone2.dll
+/Users/mac/Projects/Capstone2/Capstone2/obj/Debug/netcoreapp2.2/Capstone2.pdb
